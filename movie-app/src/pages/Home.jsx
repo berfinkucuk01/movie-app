@@ -87,9 +87,9 @@ function Home() {
               ssr={true}
               infinite={true}
               autoPlay={true}
-              autoPlaySpeed={3000} // Otomatik oynatma hızını düşürün
+              autoPlaySpeed={3000} 
               keyBoardControl={true}
-              customTransition="transform 500ms ease-in-out" // Geçiş süresini ve efektini ayarlayın
+              customTransition="transform 500ms ease-in-out" 
               transitionDuration={500}
               containerClass="carousel-container"
               removeArrowOnDeviceType={["tablet", "mobile"]}
@@ -124,9 +124,9 @@ function Home() {
               ssr={true}
               infinite={true}
               autoPlay={true}
-              autoPlaySpeed={3000} // Otomatik oynatma hızını düşürün
+              autoPlaySpeed={3000} 
               keyBoardControl={true}
-              customTransition="transform 500ms ease-in-out" // Geçiş süresini ve efektini ayarlayın
+              customTransition="transform 500ms ease-in-out" 
               transitionDuration={500}
               containerClass="carousel-container"
               removeArrowOnDeviceType={["tablet", "mobile"]}
