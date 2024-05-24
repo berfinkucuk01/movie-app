@@ -8,7 +8,7 @@ const API_KEY = "67d11c5721bc08223533ab2c6bcc2373";
 const BASE_URL = "https://api.themoviedb.org/3";
 
 function ClickedSerie() {
-  const { id } = useParams(); // Extracting id from URL params
+  const { id } = useParams(); 
   const [serieData, setSerieData] = useState(null);
 
   useEffect(() => {
