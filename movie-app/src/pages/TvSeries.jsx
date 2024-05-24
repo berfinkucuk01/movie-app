@@ -1,5 +1,3 @@
-// TvSeries.js
-
 import Loader from "../components/Loader";
 import TvSerie from "../components/TvSerie";
 import { Link } from "react-router-dom";
